@@ -1,0 +1,26 @@
+_repo: A-Selection-of-Books-Published-by-Methuen--amp--Co.-September-1913_42977
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42977-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Methuen & Co.
+    alias: Methuen and Co.
+    gutenberg_agent_id: '6250'
+    url: http://www.gutenberg.org/2009/agents/6250
+description: ''
+gutenberg_issued: '2013-06-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42977'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Publishers'' catalogs -- England'
+- !lcc 'Z'
+- !lcsh 'Methuen & Co. -- Catalogs'
+title: A Selection of Books Published by Methuen & Co. September 1913
+url: http://www.gutenberg.org/ebooks/42977
